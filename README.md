@@ -1,4 +1,4 @@
-Вы можете встроить NeuroStartUp в ваши приложения с помощью следующих сниппетов (кусочков) кода.
+You can embed NeuroStartUp in your applications using the following snippets (pieces) of code.
 
 JavaScript:
 
@@ -10,7 +10,7 @@ Java (Maven):
   <artifactId>sdk</artifactId>
   <version>1.0.0</version>
 </dependency>
-iOS (добавьте код в ваш Podfile):
+iOS (add code to your Podfile):
 
 platform :ios, '8.0'
 pod "neuro-ios-sdk"
